@@ -1,0 +1,12 @@
+{
+    "name": "root/isbhack_node",
+    "require": {
+        "wisembly/elephant.io": "~3.0"
+    },
+    "authors": [
+        {
+            "name": "Ali",
+            "email": "ali.arshad@dynamologic.com"
+        }
+    ]
+}
